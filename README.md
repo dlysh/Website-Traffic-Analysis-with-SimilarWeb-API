@@ -19,8 +19,8 @@ Before using the script, make sure you have the following:
 - **Engaged Only Parameter (Optional)**: Set `engaged_only` to `True` if you want to include engaged users only. Default is `False`.
 
 ## Usage 
-
-3. **Output**: The script will generate a Pandas DataFrame containing the total visits data for each website. Additionally, it will save the data to an Excel file named `total_visits_data.xlsx`.
+1. **Run the Script**: Execute the script, and it will prompt you to enter a list of websites separated by a new line.
+2. **Output**: The script will generate a Pandas DataFrame containing the total visits data for each website. Additionally, it will save the data to an Excel file named `total_visits_data.xlsx`.
 
 ## Output Structure
 
